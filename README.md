@@ -2,7 +2,7 @@
 
 ## Why I Built This
 
-Honestly, I was sitting in my bed thinking of what I could do. All my past projects weren't that interesting to me. I wanted to do a project that could correlate with my car hobby. There's been a rise in car theft and I've seen vigilantes, such as Mark McCann, who has become prominent in car theft recovery by documenting and creating content around exposing car thieves.
+Honestly, I was sitting in my bed thinking of what I could do. All my past projects weren't that interesting to me. I wanted something that connected to my car hobby—and actually mattered. With car theft on the rise, I've been following people like Mark McCann who expose cloned and stolen vehicles. That got me thinking: what if I could build a tool that reads VINs from photos? This project is my way of learning the full machine learning pipeline—from data collection to model training to deployment—while building something that could actually help spot stolen cars.
 
 ## Features
 
